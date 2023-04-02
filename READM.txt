@@ -1,0 +1,11 @@
+npm i dotenv express mongoose multer
+
+npm i -D nodemon
+
+criar app.js
+
+criar dotenv definindo a port 4000
+
+criar app.js
+
+alterando o package.js o "Script" para rodar no comando "npm start"
